@@ -39,12 +39,16 @@ h3 {
 a {
   color: #11999E;
 }
-.top-container {
 
+
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
-.middle-container {
-
-}
-.bottom-container {
-
+.mar-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
