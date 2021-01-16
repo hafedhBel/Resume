@@ -37,11 +37,11 @@ hr {
   width: 4%;
   margin: 100px auto;
 }
+
 .sun {
   position: absolute;
   margin-top: 8px;
   margin-left: 8px;
-
 }
 
 .mountain-img {
@@ -80,8 +80,6 @@ hr {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  height: 100%;
-  width:100%;
 }
 
 .middle-container {
@@ -91,6 +89,8 @@ hr {
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
+  position: relative;
+  text-align: center;
 }
 
 .contact-me {
@@ -98,7 +98,11 @@ hr {
   margin: 30px auto 60px auto;
 }
 
-a {}
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
 
 .btn {
   background: #11cdd4;
